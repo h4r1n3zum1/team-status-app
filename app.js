@@ -1,12 +1,12 @@
-// Firebase設定（後で実際の値に置き換えます）
+// Firebase設定（あなたの実際の設定値）
 const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
-  databaseURL: "https://YOUR_PROJECT_ID-default-rtdb.firebaseio.com/",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_PROJECT_ID.appspot.com",
-  messagingSenderId: "YOUR_SENDER_ID",
-  appId: "YOUR_APP_ID"
+  apiKey: "AIzaSyAp9JExSs-ZEsmvJz8JmtHdawDd5gBMKXc",
+  authDomain: "teamstatus-h4r1n3zum1.firebaseapp.com",
+  databaseURL: "https://teamstatus-h4r1n3zum1-default-rtdb.asia-southeast1.firebasedatabase.app",
+  projectId: "teamstatus-h4r1n3zum1",
+  storageBucket: "teamstatus-h4r1n3zum1.firebasestorage.app",
+  messagingSenderId: "498093027513",
+  appId: "1:498093027513:web:21a7e58c09986ab6ebeb68"
 };
 
 // Firebase初期化
